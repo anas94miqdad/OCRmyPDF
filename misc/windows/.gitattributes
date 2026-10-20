@@ -1,0 +1,6 @@
+# SPDX-FileCopyrightText: 2026 Anas Miqdad
+# SPDX-License-Identifier: MPL-2.0
+
+# Windows-Skripte mit Windows-Zeilenenden ausliefern
+*.bat text eol=crlf
+*.ps1 text eol=crlf
